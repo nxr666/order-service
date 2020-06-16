@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,6 +34,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cksyLvCET0iTy6WoMOnoizOZZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -87,10 +91,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="290" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591085802328" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1591429199192">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1592279810730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591429199192" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592279810730" />
+    <state x="492" y="275" key="Github.CreateGistDialog" timestamp="1592276433553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="275" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1592276433553" />
     <state width="1322" height="139" key="GridCell.Tab.0.bottom" timestamp="1591440466746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,10 +131,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="139" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591440466746" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1591429200356">
+    <state x="180" y="0" key="SettingsEditor" timestamp="1592279818445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591429200356" />
+    <state x="180" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592279818445" />
     <state x="57" y="64" key="new project wizard" timestamp="1591110678762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

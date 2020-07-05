@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4733d5-85fa-4e07-8a0b-a0959dd42e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nxr/controller/MyTestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,12 +94,27 @@
       <option name="project" value="LOCAL" />
       <updated>1592280243098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交测试">
+      <created>1593940522902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593940522902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交测试">
+      <created>1593940702188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593940702188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加点注释提交一下看看" />
-    <option name="LAST_COMMIT_MESSAGE" value="加点注释提交一下看看" />
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1591107069558">
@@ -111,10 +125,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="290" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591085802328" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1593940517230">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1593940694027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593940517230" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593940694027" />
     <state x="129" y="53" key="DiffContextDialog" timestamp="1592280025489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
